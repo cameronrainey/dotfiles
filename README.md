@@ -23,10 +23,7 @@ Cross-platform dotfiles managed with [GNU Stow](https://www.gnu.org/software/sto
 
 3. Stow the desired packages:
    ```bash
-   stow bash
-   stow zsh
-   stow vim
-   stow sway
+    stow sway
    ```
 
    Alternatively, use the provided install script:

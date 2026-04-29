@@ -4,7 +4,7 @@ This directory contains the configuration files and scripts for my Sway environm
 
 ## Requirements
 
-The required packages for this setup are listed in `packages.txt`. 
+The required packages for this setup are listed in `packages.txt`.
 They include core Sway tools, terminal (`foot`), application launcher (`fuzzel`), VPN (`protonvpn-cli`), and screenshot tools (`flameshot`).
 
 ## Installation

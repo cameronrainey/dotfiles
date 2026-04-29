@@ -1,0 +1,11 @@
+sway
+swaybg
+foot
+fuzzel
+rofi-wayland
+jxl-pixbuf-loader
+libnotify
+protonvpn-cli
+stow
+git
+flameshot

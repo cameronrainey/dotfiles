@@ -1,6 +1,6 @@
 sway
 swaybg
-foot
+ptyxis
 fuzzel
 rofi-wayland
 jxl-pixbuf-loader

@@ -83,7 +83,7 @@ font pango: Inconsolata 12
 #
 # Default wallpaper (more resolutions are available in /usr/share/backgrounds/sway/)
 # Requires: desktop-backgrounds-compat, swaybg, jxl-pixbuf-loader
-output * bg /usr/share/backgrounds/default.jxl fill
+output * bg ~/Pictures/backgrounds/darksky3.png fill
 #
 # Example configuration:
 #

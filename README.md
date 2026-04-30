@@ -7,6 +7,8 @@ Cross-platform dotfiles managed with [GNU Stow](https://www.gnu.org/software/sto
 - `stow`
 - `git`
 - `pre-commit`
+- `zsh`
+- `Oh My Zsh`
 
 ## Installation
 

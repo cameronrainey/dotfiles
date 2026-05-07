@@ -40,7 +40,7 @@ exec swaync
 
 
 
-
+focus_follows_mouse no
 
 
 # i3-gaps
@@ -131,6 +131,7 @@ output * bg ~/Pictures/backgrounds/darksky3.png fill
 
     # Start your launcher
     bindsym $mod+d exec $menu
+    bindsym Mod1+space exec $menu
 
     # Drag floating windows by holding down $mod and left mouse button.
     # Resize them with right mouse button + $mod.
